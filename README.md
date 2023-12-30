@@ -6,8 +6,11 @@ Programa atlieka tris užduotis:
 2. Sukuria cross-reference lentelę, kurioje pateikiamas žodis, jo pasikartojimų skaičius ir visų eilučių numeriai, kuriose buvo šis žodis. Rezultatas išvedamas į dokumentą cross_reference.txt
 3. Suranda URL adresus ir juos išspausdina į dokumentą hyperlinkai.txt
 <br />
+Tekstiniame dokumente Kaunas.txt yra nukopijuotas Vikipedijos puslapis apie Kauną (https://lt.wikipedia.org/wiki/Kaunas).
+Tekstiniame dokumente tld-list-basic.txt yra galimų domenų sąrašas, kuris yra naudojamas URL identifikavimui.
 Pagrindinės funkcijos apima TLD sąrašo nuskaitymą, URL identifikavimą, netinkamų simbolių pašalinimą, žodžių pasikartojimo sakaičiavimą ir rezultatų įrašymą į atskirus dokumentus.
 Programa naudoja std::string, ir asociatyvius konteinerius.
+<br />
 <br />
 Sukurtų dokumentų pavyzdys:
 <br />
