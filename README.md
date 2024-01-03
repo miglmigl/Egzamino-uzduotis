@@ -19,4 +19,13 @@ Sukurtų dokumentų pavyzdys:
 <img width="649" alt="image" src="https://github.com/miglmigl/Egzamino-uzduotis/assets/144427943/c83cc953-7ce0-47eb-8db8-81b35c2a98ad">
 
 
+# Papildoma užduotis
+
+Reikėjo surasti žodžius, kuriuose yra "aik".
+<br />
+Šiam tikslui buvo sukurta funkcija raskAik, kuri tokius žodžius deda į set'ą ir po iškvietimo išveda į dokumentą SuAIK.txt.
+<br />
+Dokumneto SuAIK.txt pavyzdys:
+<br />
+<img width="596" alt="image" src="https://github.com/miglmigl/Egzamino-uzduotis/assets/144427943/a5b0a01c-02b6-4e19-b9a2-8db19b844e78">
 
